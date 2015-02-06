@@ -8,7 +8,8 @@ https://vimeo.com/118887790
 Description:
 --------
 
-move shaders folder to your `openFrameworks/bin/data` folder.
+This is an addon that can apply like a sketch effect.
+When you use the addon, copy `data/shaders` folder to your `openFrameworks/bin/data` folder.
 
 Requirements
 --------
