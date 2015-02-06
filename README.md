@@ -5,6 +5,9 @@
 [Vimeo]
 https://vimeo.com/118887790
 
+[Blog]
+http://labs.1-10.com/blog/ofxSketchFilter.html (Coming soon)
+
 Description:
 --------
 
